@@ -1,1 +1,1 @@
-PayUp Desktop Site - InVision Prototype
+PayUp Desktop Landing Page - InVision Prototype
