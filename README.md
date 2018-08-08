@@ -1,11 +1,14 @@
-# PayUp App Desktop Landing Page - InVision Prototype
+# PayUp App Desktop Landing Page — InVision Prototype
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/mockup-site.jpg" alt="Detail from PayUp's landing page in desktop and mobile" width="1000" />
 PayUp's landing page.
 </p>
 
-👉 Check out the Landing Page mockup here (desktop version) https://filipago.github.io/payup-desktop-site-prototype/
+👉 Check out the Landing Page mockups here:
+
+* Desktop version — https://filipago.github.io/payup-desktop-site-prototype/
+* Mobile version — https://filipago.github.io/payup-mobile-site-prototype/
 
 ## What is PayUp?
 
