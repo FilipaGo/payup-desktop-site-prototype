@@ -11,13 +11,13 @@
 
 * [What is PayUp?](https://github.com/FilipaGo/payup-desktop-site-prototype#what-is-payup)<br/>
 * [Designing the Landing Page](https://github.com/FilipaGo/payup-desktop-site-prototype#designing-the-landing-page)<br/>
-  * [STEP 1 — Information Architecture](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-  * [STEP 2 — Content Strategy](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-  * [STEP 3 — Wireframes](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-  * [STEP 4 — Visual Design](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-  * [STEP 5 — Prototyping](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-* [Developing the Landing Page](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-* [Next Steps](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
+  * [STEP 1 — Information Architecture](https://github.com/FilipaGo/payup-desktop-site-prototype#step-1--information-architecture)<br/>
+  * [STEP 2 — Content Strategy](https://github.com/FilipaGo/payup-desktop-site-prototype#step-2--content-strategy)<br/>
+  * [STEP 3 — Wireframes](https://github.com/FilipaGo/payup-desktop-site-prototype#step-3--wireframes)<br/>
+  * [STEP 4 — Visual Design](https://github.com/FilipaGo/payup-desktop-site-prototype#step-4--visual-design)<br/>
+  * [STEP 5 — Prototyping](https://github.com/FilipaGo/payup-desktop-site-prototype#step-5--prototyping)<br/>
+* [Developing the Landing Page](https://github.com/FilipaGo/payup-desktop-site-prototype#developing-the-landing-page)<br/>
+* [Next Steps](https://github.com/FilipaGo/payup-desktop-site-prototype#next-steps)<br/>
 
 👉 **Check out the Landing Page mockups here:**
 
